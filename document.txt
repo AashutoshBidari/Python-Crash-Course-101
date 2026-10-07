@@ -1,0 +1,3 @@
+He is a good boy. He is a ### boy.
+A ###### is a good animal. He looks like ######.
+The ####### should be thrown in trash.
